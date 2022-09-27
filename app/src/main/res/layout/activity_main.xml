@@ -26,9 +26,9 @@
         app:np_itemSpacing="-10dp"
         app:np_max="59"
         app:np_min="0"
-        app:np_selectedTextColor="@color/black"
+        app:np_selectedTextColor="@color/textColorPrimary"
         app:np_selectedTextSize="20dp"
-        app:np_textColor="#CB6A6A6A"
+        app:np_textColor="#CBBDBDBD"
         app:np_textSize="20dp"
         app:np_value="3"
         app:np_width="64dp" />
